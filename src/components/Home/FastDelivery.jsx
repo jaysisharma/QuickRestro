@@ -30,7 +30,7 @@ const FastDelivery = () => {
     <div className=' relative text-white h-screen   pt-20'>
       <div className="top flex justify-center flex-col items-center py-8">
         <h2 className='text-2xl'>Fast Delivery within an hour</h2>
-        <p className='text-gray-400'>Order before 21:00</p>
+        <p className='text-gray-400'>Order before 22:00</p>
         <hr className="border-red-500 w-12 h-4 mt-2" />
       </div>
       <div className="m_conc flex py-10">
